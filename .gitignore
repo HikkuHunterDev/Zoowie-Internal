@@ -1,0 +1,10 @@
+﻿/build/
+/.vs/
+/.vscode/
+/out/
+/cache/
+*.user
+*.log
+
+node_modules/
+/dist/
